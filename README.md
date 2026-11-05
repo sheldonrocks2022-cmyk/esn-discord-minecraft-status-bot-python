@@ -1,5 +1,7 @@
 # ESN Discord Minecraft Status Bot (Python)
 
+[![Deploy to ESN](https://panel.esnoffical.com/deploy/badge.svg)](https://panel.esnoffical.com/deploy?repo=https://github.com/sheldonrocks2022-cmyk/esn-discord-minecraft-status-bot-python)
+
 A Discord bot in Python (discord.py 2) that shows the live status of any Minecraft server, Java or Bedrock, using the `mcstatus` library. Made by [ESN Hosting](https://esnoffical.com/?utm_source=github&utm_medium=readme&utm_campaign=bot-templates).
 
 ## What it does
